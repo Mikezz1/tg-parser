@@ -1,0 +1,32 @@
+---
+api_id: <secret>
+api_hash: <secret>
+username:  <username>
+msg_limit: 1000
+offset_msg: 0
+limit_msg: 100
+offset_date:  # None or str
+output_path: './data'
+channels: [
+  'https://t.me/MarketDumki',
+  'https://t.me/eninv',
+  'https://t.me/russianmacro',
+  'https://t.me/tinkoff_invest_official',
+  'https://t.me/vtbmyinvestments',
+  'https://t.me/SberInvestments',
+  'https://t.me/finamalert',
+  'https://t.me/InvestHeroes',
+  'https://t.me/cbrstocks',
+  'https://t.me/if_stocks',
+  'https://t.me/AK47pfl',
+  'https://t.me/lemonfortea',
+  'https://t.me/ProfitGate',
+  'https://t.me/goodtraders',
+  'https://t.me/bitkogan',
+  'https://t.me/banksta',
+  'https://t.me/smartlabnews',
+  'https://t.me/alfawealth',
+  'https://t.me/smfanton',
+  'https://t.me/cbonds',
+  'https://t.me/AK47pfl',
+          ]
